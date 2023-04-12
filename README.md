@@ -25,7 +25,7 @@ In addition, you need to install [conda](https://conda.io/projects/conda/en/late
 $ git clone https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes.git
 $ cd K-EmoPhone_SupplementaryCodes
 ```
-3. Replicate our conda environment ([environment.yml[(https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes/blob/main/environment.yml)]), referring to [this](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-from-file).
+3. Replicate our conda environment ([environment.yml](https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes/blob/main/environment.yml)), referring to [this](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-from-file).
 
 4. Run your own Jupyter environment.
 
