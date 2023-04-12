@@ -1,46 +1,33 @@
 # K-EmoPhone_SupplementaryCodes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6851298)](https://doi.org/10.5281/zenodo.6851298)
-This repository contains supplementary codes and labels for the **K-EmoPhone Dataset**.
+This repository is for supplementary codes used to explore and analyze the **K-EmoPhone Dataset**.
 
-For the detailed description of the dataset, please refer to:
-> ...
+* Description of the dataset: TBD
+* Dataset URL: TBD
+
 ---
+## Environment
+We have run this code under the environment as below:
+* OS: Ubuntu 20.04 installed with Windows Subsystem for Linux (WSL)
+    * This code highly depends on a python multiprocessing library, [ray](https://www.ray.io/) which does not fully support Windows OS.
+* CPU: AMD Ryzen 9 5900x 12-Core
+    * This is not mandatory; you can run this code (with a minor modification) although you have the smaller number of cores.
+* RAM: 128GB
+    * This is not mandatory; we expected about 40GB of RAM to be required (but not tested).
 
-## Usage
+In addition, you need to install [conda](https://conda.io/projects/conda/en/latest/index.html#) for managing packages and virtual environment.
 
-### Installation
+## HOW-TO
+1. Download the K-EmoPhone dataset.
+
+2. Download this repository
 ```console
 $ git clone https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes.git
 $ cd K-EmoPhone_SupplementaryCodes
 ```
+3. Replicate our conda environment ([environment.yml[(https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes/blob/main/environment.yml)]), referring to [this](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-from-file).
 
-You need to download the above **K-EmoPhone Dataset** into */data/* directory.
+4. Run your own Jupyter environment.
 
-You also need to move the *EsmResponse-1966.csv* file to */data/* directory.
+5. Then, open [analysis.ipynb](https://github.com/Kaist-ICLab/K-EmoPhone_SupplementaryCodes/blob/main/analysis.ipynb).
 
-### Run
-You can follow the jupyter notebook instructions in *K-EmoPhone-analysis.ipynb*.
-
----
-
-## Results
-The evaluation results will be in the */eval/* directory.
-
----
-
-## Dependency modules
-* mitosheet==0.1.412
-* pandas==1.3.5
-* pytz==2021.3
-* cloudpickle==2.0.0
-* ray==1.12.1
-* numpy==1.21.6
-* seaborn==0.11.2
-* json==2.0.9
-* altair==4.2.0
-* optuna==2.10.1
-* sklearn==1.0.2
-* imblearn==0.9.0
-* pyparsing==3.0.8
-* xgboost==1.6.1
