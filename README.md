@@ -1,4 +1,4 @@
-# K-EmoPhone_SupplementaryCodes
+# Supplementary Codes for the K-EmoPhone
 
 This repository is for supplementary codes used to explore and analyze the **K-EmoPhone Dataset**.
 
