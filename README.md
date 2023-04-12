@@ -3,7 +3,7 @@
 This repository is for supplementary codes used to explore and analyze the **K-EmoPhone Dataset**.
 
 * Description of the dataset: TBD
-* Dataset URL: TBD
+* Dataset URL: [https://doi.org/10.5281/zenodo.7606611](https://doi.org/10.5281/zenodo.7606611)
 
 ---
 ## Environment
