@@ -2,7 +2,7 @@
 
 This repository is for supplementary codes used to explore and analyze the **K-EmoPhone Dataset**.
 
-* Description of the dataset: [https://doi.org/10.1038/s41597-023-02248-2](https://doi.org/10.1038/s41597-023-02248-2)
+* Description of the dataset: [https://doi.org/10.1038/s41597-023-02248-2](https://doi.org/10.1038/s41597-023-02248-2) (To appear)
 * Dataset URL: [https://doi.org/10.5281/zenodo.7606611](https://doi.org/10.5281/zenodo.7606611)
 
 ---
