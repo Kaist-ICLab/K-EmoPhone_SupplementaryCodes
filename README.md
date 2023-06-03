@@ -2,7 +2,8 @@
 
 This repository is for supplementary codes used to explore and analyze the **K-EmoPhone Dataset**.
 
-* Description of the dataset: [https://doi.org/10.1038/s41597-023-02248-2](https://doi.org/10.1038/s41597-023-02248-2) (To appear)
+* Description of the dataset: [https://doi.org/10.1038/s41597-023-02248-2](https://doi.org/10.1038/s41597-023-02248-2)
+  * K-EmoPhone: A Mobile and Wearable Dataset with In-Situ Emotion, Stress, and Attention Labels. 2023. Soowon Kang, Woohyeok Choi, Cheul Young Park, Narae Cha, Auk Kim, Ahsan Habib Khandoker, Leontios Hadjileontiadis, Heepyung Kim, Yong Jeong, Uichin Lee. Scientific Data, 10, 351. 
 * Dataset URL: [https://doi.org/10.5281/zenodo.7606611](https://doi.org/10.5281/zenodo.7606611)
 
 ---
